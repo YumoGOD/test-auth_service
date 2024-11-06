@@ -155,6 +155,6 @@ SIMPLE_JWT = {
     'TOKEN_TYPE_CLAIMS': 'token_type',
 }
 
-APPEND_SLASH = False
+
 
 AUTH_USER_MODEL = 'users.CustomUser'
